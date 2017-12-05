@@ -2,14 +2,14 @@
 
 http://corner.practicalcoder.com/impression.html
 
-from Wiktionary, Creative Commons Attribution/Share-Alike License
-- The indentation or depression made by the pressure of one object on or into another.
-- The overall effect of something, e.g., on a person.
-- A vague recalling of an event, a belief
-- An impersonation, an imitation of the mannerisms of another individual
+### impressions word senses
+- The indentation or depression made by pressure
+- The overall effect of something
+- A vague recalling of an event
+- An impersonation or imitation 
 - An outward appearance
-- An online advertising performance metric representing an instance where an ad is shown once
+- An instance where an ad is shown once
 
-<s>TODO: fix ascii impression width for small client display</s>
+TODO: <s>fix ascii garble</s>
 
-![DES word art](http://mnemonic.practicalcoder.com/commentcloud.png?raw=true)
+![Some DES word art](http://mnemonic.practicalcoder.com/commentcloud.png?raw=true)
