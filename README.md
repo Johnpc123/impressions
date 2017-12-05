@@ -8,7 +8,7 @@ http://corner.practicalcoder.com/impression.html
 - A vague recalling of an event
 - An impersonation or imitation 
 - An outward appearance
-- An instance where an ad is shown once
+- An instance where an ad is shown 
 
 TODO: <s>fix ascii garble</s>
 
