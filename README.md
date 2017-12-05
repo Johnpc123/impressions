@@ -10,5 +10,6 @@ from Wiktionary, Creative Commons Attribution/Share-Alike License
 - An outward appearance
 - An online advertising performance metric representing an instance where an ad is shown once
 
-TODO: fix ascii impression width for small client displays
- 
+<s>TODO: fix ascii impression width for small client display</s>
+
+![DES word art](http://mnemonic.practicalcoder.com/commentcloud.png?raw=true)
