@@ -1,6 +1,6 @@
 # impressions
+![corner.practicalcoder.com/impression](http://corner.practicalcoder.com/impression.html)
 
-http://corner.practicalcoder.com/impression.html
 
 ### impressions word senses
 - The indentation or depression made by pressure
