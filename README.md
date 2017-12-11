@@ -1,15 +1,12 @@
-# impressions
+# Impressions
+
+## My undergrad Software Engineering research project was a study of cryptography. 
+
+This client side vanilla javascript web app stems from that, and demonstrates the mechanics of one way hashing and symmetric encryption. 
+
+If aligned correctly in your browser, the decrypted text shows an ascii art image of my impression.  Using an image like this is a nod to stenography, i.e. hiding in plain sight, an out of band method for data security. 
+##### *nb alignment not guaranteed, this is not a compatibility layer, check the source if interested. 
 
 <a href="http://corner.practicalcoder.com/impression.html">corner.practicalcoder.com/impression</a>
-
-### impressions word senses
-- The indentation or depression made by pressure
-- The overall effect of something
-- A vague recalling of an event
-- An impersonation or imitation 
-- An outward appearance
-- An instance where an ad is shown 
-
-TODO: <s>fix ascii garble</s>
 
 ![Some DES word art](http://mnemonic.practicalcoder.com/commentcloud.png?raw=true)
