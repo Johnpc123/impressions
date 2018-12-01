@@ -7,6 +7,6 @@ This client side vanilla javascript web app stems from that, and demonstrates th
 If aligned correctly in your browser, the decrypted text shows an ascii art image of my impression.  Using an image like this is a nod to stenography, i.e. hiding in plain sight, an out of band method for data security. 
 ##### *nb alignment not guaranteed, this is not a compatibility layer, check the source if interested. 
 
-<a href="http://corner.practicalcoder.com/impression.html">corner.practicalcoder.com/impression</a>
+<a href="https://corner.practicalcoder.com/impression.html" target="_blank">corner.practicalcoder.com/impression</a>
 
 ![Some DES word art](http://mnemonic.practicalcoder.com/commentcloud.png?raw=true)
