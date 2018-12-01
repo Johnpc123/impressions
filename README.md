@@ -1,6 +1,6 @@
 # Impressions
 
-## My undergrad Software Engineering research project was a study of cryptography. 
+## My undergrad software engineering research project was a study of cryptography. 
 
 This client side vanilla javascript web app stems from that, and demonstrates the mechanics of one way hashing and symmetric encryption. 
 
