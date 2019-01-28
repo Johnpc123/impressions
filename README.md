@@ -1,6 +1,6 @@
 # Impressions
 
-## My B.Sc. (App.Sc.) software engineering research project was a study of cryptography. 
+## My B.Sc. (App.Sc.) research project was a study of cryptography. 
 
 This script demonstrates the mechanics of one way hashing and symmetric encryption. 
 
