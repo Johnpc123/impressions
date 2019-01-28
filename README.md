@@ -10,4 +10,4 @@ Decrypt the text to see an ascii art ``impression`` (Caveat* If aligned correctl
 
 <a href="https://corner.practicalcoder.com/impression.html" target="_blank">corner.practicalcoder.com/impression</a>
 
-![Some D.E.S. word art](http://mnemonic.practicalcoder.com/commentcloud.png?raw=true)
+
