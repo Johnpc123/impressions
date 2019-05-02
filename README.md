@@ -1,13 +1,13 @@
 # Impressions
 
-## My B.Sc. (App.Sc.) <a href="https://corner.practicalcoder.com/impression.html" target="_blank">research project</a> was a study of cryptography. 
+## My B.Sc. (App.Sc.) research project was a study of cryptography. 
 
 This script demonstrates the mechanics of one way hashing and symmetric encryption. 
 
-Decrypt the text to see an ascii art ``impression`` (Caveat* If aligned correctly in your browser). Using an image like this is a nod to stenography, i.e. hiding in plain sight, an out of band method for data security. 
+Decrypt the text to see an <a href="https://corner.practicalcoder.com/impression.html" target="_blank">ascii art ``impression`` </a> Encoding an image like this is called stenography, i.e. hiding in plain sight, an out of band method for data security. 
 
-##### *nb Text area width renders can vary by browser, impression alignment isn't guaranteed.  This this is not a compatibility layer, check out the page source if you're interested.  
+##### *nb Impression alignment is tested against popular browsers and OSs but isn't guaranteed. Alignment controls were added to mitigate this. 
 
-<a href="https://corner.practicalcoder.com/impression.html" target="_blank">corner.practicalcoder.com/impression</a>
+The same digest symmetric key protocol is used by <a href="https://send.firefox.com/">Firefox Send</a>. It's interesting to see proof that data security protocols stand over time. 
 
 
